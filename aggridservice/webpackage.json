@@ -1,0 +1,10 @@
+{
+    "name":"aggridservice",
+    "displayName":"Ag Grid Services",
+    "packageType": "Web-Service",
+    "icon": "https://raw.githubusercontent.com/Servoy/aggridservices/master/aggridservice/aggrid.png",
+    "description": "Ag Grid Services use for setting default properties on AG Grid Components",
+    "wikiUrl": "https://github.com/Servoy/aggridservices/wiki",
+    "sourceUrl" : "https://github.com/Servoy/aggridservices",
+    "releases" : [{"version":"1.0.0rc1","url":"https://github.com/Servoy/aggridservices/releases/download/v1.0.0rc1/aggridservice.zip", "servoy-version":"8.3.1"}]
+}
