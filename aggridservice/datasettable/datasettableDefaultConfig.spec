@@ -5,6 +5,14 @@
     "definition": "aggridservice/datasettable/datasettableDefaultConfig.js",
     "libraries": [],
     "model": {"iconConfig": "iconConfig", "toolPanelConfig": "toolPanelConfig"},
+	"api": {
+		"createIconConfig" : {
+			"returns": "iconConfig"
+		},
+        "createToolPanelConfig" : {
+			"returns": "toolPanelConfig"
+		}
+    },
     "types" : {
         "iconConfig" : {
 			"iconMenu": { "type": "styleclass"},

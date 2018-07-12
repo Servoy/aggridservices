@@ -5,6 +5,14 @@
     "definition": "aggridservice/groupingtable/groupingtableDefaultConfig.js",
     "libraries": [],
     "model": {"iconConfig": "iconConfig", "toolPanelConfig": "toolPanelConfig"},
+    "api": {
+		"createIconConfig" : {
+			"returns": "iconConfig"
+		},
+        "createToolPanelConfig" : {
+			"returns": "toolPanelConfig"
+		}
+    },
     "types" : {
         "iconConfig" : {
         	"iconGroupExpanded": { "type": "styleclass" },

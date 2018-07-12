@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 Bundle-SymbolicName: aggridservice
 Bundle-Version: 1.0.0
-Bundle-Name:  Servoy NG-Grid Services
+Bundle-Name: Servoy NG-Grid Services
 Package-Type: Web-Service
 
 Name: groupingtable/groupingtableDefaultConfig.spec
