@@ -4,7 +4,7 @@
     "version": 1,
     "definition": "aggridservice/datasettable/datasettableDefaultConfig.js",
     "libraries": [],
-    "model": {"iconConfig": "iconConfig", "toolPanelConfig": "toolPanelConfig"},
+    "model": {"iconConfig": "iconConfig", "toolPanelConfig": "toolPanelConfig", "gridOptions": "map", "localeText": "map"},
 	"api": {
 		"createIconConfig" : {
 			"returns": "iconConfig"
