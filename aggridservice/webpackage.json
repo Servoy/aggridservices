@@ -1,5 +1,5 @@
 {
-    "name":"aggridservices",
+    "name":"aggridservice",
     "displayName":"Ag Grid Services",
     "packageType": "Web-Service",
     "icon": "https://raw.githubusercontent.com/Servoy/aggridservices/master/aggridservice/aggrid.png",
