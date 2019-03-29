@@ -7,7 +7,11 @@ angular.module('datasettableDefaultConfig',['servoy'])
 		 * @return {iconConfig}
 		 */
 		createIconConfig: function() {
-			return {};
+			return {
+				iconGroupExpanded: "glyphicon glyphicon-minus ag-icon",
+				iconGroupContracted: "glyphicon glyphicon-plus ag-icon",
+				iconRefreshData: "glyphicon glyphicon-refresh"
+			};
 		},
 		/**
 		 * Creates an empty toolpanel configuration object
