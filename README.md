@@ -15,7 +15,7 @@ you can set: iconConfig, toolPanelConfig, gridOptions and localeText.
 Usually a config can be set in 3 places:
  1. on the table component as a design property, if exposed (ex. rowHeight)
  2. as a config option applied on the table component (ex. gridOptions design time property with rowHeight)
- 3. as a global config option applied using NG Grid services (ex. plugins.groupingtableDefaultConfig.gridOptions with rowHeight)
+ 3. as a global config option applied using NG Grid services (ex. plugins.ngDataGrid.gridOptions with rowHeight)
 The order they are read is 2 - 3 - 1 : if option is set on component config, that is used, else if global config is set then that
 will be used, otherwise, if the option is not set in any config, the design time value of that option will be used.
 
