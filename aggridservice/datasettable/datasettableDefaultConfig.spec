@@ -1,6 +1,6 @@
 {
-    "name": "datasettableDefaultConfig",
-    "displayName": "Dataset Table Default Configurator",
+    "name": "ngPowerGrid",
+    "displayName": "NG Power Grid Default Configurator",
     "version": 1,
     "definition": "aggridservice/datasettable/datasettableDefaultConfig.js",
     "libraries": [],

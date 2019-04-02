@@ -1,6 +1,6 @@
 {
-    "name": "groupingtableDefaultConfig",
-    "displayName": "Grouping Table Default Configurator",
+    "name": "ngDataGrid",
+    "displayName": "NG Data Grid Default Configurator",
     "version": 1,
     "definition": "aggridservice/groupingtable/groupingtableDefaultConfig.js",
     "libraries": [],
