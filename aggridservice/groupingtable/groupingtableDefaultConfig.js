@@ -1,5 +1,5 @@
-angular.module('groupingtableDefaultConfig',['servoy'])
-.factory("groupingtableDefaultConfig",function() 
+angular.module('ngDataGrid',['servoy'])
+.factory("ngDataGrid",function() 
 {
 	return {
 		/**

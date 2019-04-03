@@ -1,5 +1,5 @@
-angular.module('datasettableDefaultConfig',['servoy'])
-.factory("datasettableDefaultConfig",function() 
+angular.module('ngPowerGrid',['servoy'])
+.factory("ngPowerGrid",function() 
 {
 	return {
 		/**
