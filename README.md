@@ -38,6 +38,10 @@ Used to customize any options that ag-Grid exposes. Check here for available opt
 
 Used for internationalisation. Check here for available options: https://www.ag-grid.com/javascript-grid-internationalisation/
 
+* columnOptions
+
+Used to customize the properties of the columns. Check here for available options: https://www.ag-grid.com/javascript-grid-column-properties/
+
 # Feature Requests & Bugs
 
 Found a bug or would like to see a new feature implemented? Raise an issue in the Issue Tracker
