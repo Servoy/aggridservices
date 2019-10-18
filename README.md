@@ -10,7 +10,8 @@ The Servoy NG Grid Services can be used on NG Grids v2.0.0-rc4 and up.
 
 There are 2 services, one for the NG Power Grid: plugins.ngPowerGrid, and one for
 the NG Data Grid: plugins.ngDataGrid. They both have the same config options that
-you can set: iconConfig, toolPanelConfig, gridOptions and localeText.
+you can set: iconConfig, toolPanelConfig, gridOptions and localeText. Please note
+that these must be set before showing the grids, like onSolutionOpen, or onLoad of a form.
 
 Usually a config can be set in 3 places:
  1. on the table component as a design property, if exposed (ex. rowHeight)
