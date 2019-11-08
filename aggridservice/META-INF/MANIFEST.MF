@@ -1,6 +1,6 @@
 Manifest-Version: 1.0
 Bundle-SymbolicName: aggridservice
-Bundle-Version: 1.0.1
+Bundle-Version: 1.1
 Bundle-Name: Servoy NG-Grid Services
 Package-Type: Web-Service
 
