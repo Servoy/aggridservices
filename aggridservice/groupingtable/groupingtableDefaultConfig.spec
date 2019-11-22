@@ -4,13 +4,23 @@
     "version": 1,
     "definition": "aggridservice/groupingtable/groupingtableDefaultConfig.js",
     "libraries": [],
-    "model": {"iconConfig": "iconConfig", "toolPanelConfig": "toolPanelConfig", "gridOptions": "map", "localeText": "map", "columnOptions": "map"},
+    "model": {
+		"iconConfig": "iconConfig",
+		"toolPanelConfig": "toolPanelConfig",
+		"gridOptions": "map",
+		"localeText": "map",
+		"columnOptions": "map",
+		"mainMenuItemsConfig": "mainMenuItemsConfig"
+	},
     "api": {
 		"createIconConfig" : {
 			"returns": "iconConfig"
 		},
         "createToolPanelConfig" : {
 			"returns": "toolPanelConfig"
+		},
+		"createMainMenuItemsConfig" : {
+			"returns": "mainMenuItemsConfig"
 		}
     },
     "types" : {
@@ -66,6 +76,17 @@
             "suppressColumnFilter": {"type": "boolean" },
             "suppressColumnSelectAll": {"type": "boolean" },
             "suppressColumnExpandAll": {"type": "boolean" }
-        }
+        },
+		"mainMenuItemsConfig" : {
+			"pinSubMenu": {"type": "boolean" },
+			"valueAggSubMenu": {"type": "boolean" },
+			"autoSizeThis": {"type": "boolean" },
+			"autoSizeAll": {"type": "boolean" },
+			"rowGroup": {"type": "boolean" },
+			"rowUnGroup": {"type": "boolean" },
+			"resetColumns": {"type": "boolean" },
+			"expandAll": {"type": "boolean" },
+			"contractAll": {"type": "boolean" }
+		}
     }
 }

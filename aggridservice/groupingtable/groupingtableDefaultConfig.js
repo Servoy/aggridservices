@@ -19,6 +19,13 @@ angular.module('ngDataGrid',['servoy'])
 		 */
 		createToolPanelConfig: function() {
 			return {};
+		},
+		/**
+		 * Creates an empty mainMenuItems configuration object
+		 * @return {mainMenuItemsConfig}
+		 */
+		createMainMenuItemsConfig: function() {
+			return {};
 		}
 	}
 })
