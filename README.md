@@ -43,6 +43,11 @@ Used for internationalisation. Check here for available options: https://www.ag-
 
 Used to customize the properties of the columns. Check here for available options: https://www.ag-grid.com/javascript-grid-column-properties/
 
+* mainMenuItemsConfig
+
+Used to customize the main menu items of the grids. There is a helper api function to
+create a mainMenuItemsConfig, that can be usefull as it has predefined main menu items keys, ex. plugins.ngDataGrid.createMainMenuItemsConfig
+
 # Feature Requests & Bugs
 
 Found a bug or would like to see a new feature implemented? Raise an issue in the Issue Tracker
