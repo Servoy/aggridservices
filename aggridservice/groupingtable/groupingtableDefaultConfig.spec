@@ -10,7 +10,8 @@
 		"gridOptions": "map",
 		"localeText": "map",
 		"columnOptions": "map",
-		"mainMenuItemsConfig": "mainMenuItemsConfig"
+		"mainMenuItemsConfig": "mainMenuItemsConfig",
+		"arrowsUpDownMoveWhenEditing": "string"
 	},
     "api": {
 		"createIconConfig" : {
