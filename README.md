@@ -48,6 +48,11 @@ Used to customize the properties of the columns. Check here for available option
 Used to customize the main menu items of the grids. There is a helper api function to
 create a mainMenuItemsConfig, that can be usefull as it has predefined main menu items keys, ex. plugins.ngDataGrid.createMainMenuItemsConfig
 
+* arrowsUpDownMoveWhenEditing (only for NG Data Grid)
+
+Defines action on TEXTFIELD editor for up/down arrow keys. Can be one of the followings: NONE - editor's caret moves to start/end, NEXTCELL - starts editing the cell from the previos/next row, same column, if editable, else it just selects the row, NEXTEDITABLECELL - starts editing the cell from the first editable previous/next row, same column.
+
+
 # Feature Requests & Bugs
 
 Found a bug or would like to see a new feature implemented? Raise an issue in the Issue Tracker
