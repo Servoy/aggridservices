@@ -9,6 +9,7 @@
     "releases" : [
         {"version":"1.0.0-rc1","url":"https://github.com/Servoy/aggridservices/releases/download/v1.0.0-rc1/aggridservices.zip", "servoy-version":"8.4.0"},
         {"version":"1.0.1","url":"https://github.com/Servoy/aggridservices/releases/download/v1.0.1/aggridservices.zip", "servoy-version":"8.4.0"},
-        {"version":"1.1","url":"https://github.com/Servoy/aggridservices/releases/download/v1.1/aggridservices.zip", "servoy-version":"8.4.0"}
+        {"version":"1.1","url":"https://github.com/Servoy/aggridservices/releases/download/v1.1/aggridservices.zip", "servoy-version":"8.4.0"},
+        {"version":"1.2","url":"https://github.com/Servoy/aggridservices/releases/download/v1.2/aggridservices.zip", "servoy-version":"2019.12.0"}
     ]
 }
