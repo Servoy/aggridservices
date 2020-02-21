@@ -33,8 +33,8 @@
 			"iconSortDescending": { "type": "styleclass" },
 			"iconSortUnSort": { "type": "styleclass" },
 			
-			"iconGroupExpanded": { "type": "styleclass", "default" : "glyphicon glyphicon-minus ag-icon" },
-			"iconGroupContracted": { "type": "styleclass", "default" : "glyphicon glyphicon-plus ag-icon" },
+			"iconGroupExpanded": { "type": "styleclass" },
+			"iconGroupContracted": { "type": "styleclass" },
 			"iconColumnGroupOpened": { "type": "styleclass" },
 			"iconColumnGroupClosed": { "type": "styleclass" },
 			"iconColumnSelectOpen": { "type": "styleclass" },
