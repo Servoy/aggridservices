@@ -69,7 +69,9 @@
 			"iconPivotPanel": { "type": "styleclass"},
 			"iconValuePanel": { "type": "styleclass"},
 			
-			"iconRefreshData": { "type": "styleclass", "default" : "glyphicon glyphicon-refresh"}
+			"iconRefreshData": { "type": "styleclass", "default" : "glyphicon glyphicon-refresh" },
+			"iconEditorChecked": { "type": "styleclass", "default" : "glyphicon glyphicon-check" },
+			"iconEditorUnchecked": { "type": "styleclass", "default" : "glyphicon glyphicon-unchecked" }
         },
         "toolPanelConfig" : {
             "suppressRowGroups": {"type": "boolean" },
