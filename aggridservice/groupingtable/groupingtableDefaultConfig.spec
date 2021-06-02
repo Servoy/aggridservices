@@ -4,6 +4,10 @@
     "version": 1,
     "definition": "aggridservice/groupingtable/groupingtableDefaultConfig.js",
     "libraries": [],
+    "ng2Config": {
+       "packageName": "@servoy/nggrids",
+       "serviceName": "DatagridService"
+    },
     "model": {
 		"iconConfig": "iconConfig",
 		"toolPanelConfig": "toolPanelConfig",

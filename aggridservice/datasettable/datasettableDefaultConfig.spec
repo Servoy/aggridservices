@@ -4,6 +4,10 @@
     "version": 1,
     "definition": "aggridservice/datasettable/datasettableDefaultConfig.js",
     "libraries": [],
+    "ng2Config": {
+       "packageName": "@servoy/nggrids",
+       "serviceName": "PowergridService"
+    },
     "model": {
 		"iconConfig": "iconConfig",
 		"toolPanelConfig": "toolPanelConfig",
