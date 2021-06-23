@@ -52,6 +52,9 @@ create a mainMenuItemsConfig, that can be usefull as it has predefined main menu
 
 Defines action on TEXTFIELD editor for up/down arrow keys. Can be one of the followings: NONE - editor's caret moves to start/end, NEXTCELL - starts editing the cell from the previos/next row, same column, if editable, else it just selects the row, NEXTEDITABLECELL - starts editing the cell from the first editable previous/next row, same column.
 
+* editNextCellOnEnter (only for NG Data Grid)
+
+If start editing next cell on ENTER (when in TEXTFIELD editor).
 
 # Feature Requests & Bugs
 
