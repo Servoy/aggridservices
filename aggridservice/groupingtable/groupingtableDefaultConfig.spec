@@ -15,7 +15,8 @@
 		"localeText": "map",
 		"columnOptions": "map",
 		"mainMenuItemsConfig": "mainMenuItemsConfig",
-		"arrowsUpDownMoveWhenEditing": "string"
+		"arrowsUpDownMoveWhenEditing": "string",
+		"editNextCellOnEnter": "boolean"
 	},
     "api": {
 		"createIconConfig" : {
