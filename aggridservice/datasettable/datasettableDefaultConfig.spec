@@ -3,6 +3,8 @@
     "displayName": "NG Power Grid Default Configurator",
     "version": 1,
     "definition": "aggridservice/datasettable/datasettableDefaultConfig.js",
+	"serverscript": "aggridservice/datasettable/datasettableDefaultConfig_server.js",
+	"doc": "aggridservice/datasettable/datasettableDefaultConfig_doc.js",
     "libraries": [],
     "ng2Config": {
        "packageName": "@servoy/nggrids",

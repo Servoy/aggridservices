@@ -3,6 +3,8 @@
     "displayName": "NG Data Grid Default Configurator",
     "version": 1,
     "definition": "aggridservice/groupingtable/groupingtableDefaultConfig.js",
+	"serverscript": "aggridservice/groupingtable/groupingtableDefaultConfig_server.js",
+	"doc": "aggridservice/groupingtable/groupingtableDefaultConfig_doc.js",
     "libraries": [],
     "ng2Config": {
        "packageName": "@servoy/nggrids",
