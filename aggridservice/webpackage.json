@@ -3,6 +3,7 @@
     "displayName":"Servoy NG Grid Services",
     "packageType": "Web-Service",
     "icon": "https://raw.githubusercontent.com/Servoy/aggridservices/master/aggridservice/aggrid.png",
+    "invertIcon": true,
     "description": "Services used for setting default properties on Servoy NG Grids",
     "wikiUrl": "https://github.com/Servoy/aggridservices/wiki",
     "sourceUrl" : "https://github.com/Servoy/aggridservices",
