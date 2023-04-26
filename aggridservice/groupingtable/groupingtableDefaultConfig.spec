@@ -8,7 +8,10 @@
     "libraries": [],
     "ng2Config": {
        "packageName": "@servoy/nggrids",
-       "serviceName": "DatagridService"
+       "serviceName": "DatagridService",
+	    "dependencies": {
+    	   "serverscript": "aggridservice/groupingtable/groupingtableDefaultConfig_server_ng2.js"
+    	}
     },
     "model": {
 		"iconConfig": "iconConfig",
@@ -76,9 +79,9 @@
 			"iconPivotPanel": { "type": "styleclass"},
 			"iconValuePanel": { "type": "styleclass"},
 			
-			"iconRefreshData": { "type": "styleclass", "default" : "glyphicon glyphicon-refresh" },
-			"iconEditorChecked": { "type": "styleclass", "default" : "glyphicon glyphicon-check" },
-			"iconEditorUnchecked": { "type": "styleclass", "default" : "glyphicon glyphicon-unchecked" }
+			"iconRefreshData": { "type": "styleclass"},
+			"iconEditorChecked": { "type": "styleclass"},
+			"iconEditorUnchecked": { "type": "styleclass"}
         },
         "toolPanelConfig" : {
             "suppressRowGroups": {"type": "boolean" },

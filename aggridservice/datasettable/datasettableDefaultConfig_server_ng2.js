@@ -3,10 +3,7 @@
  * @return {iconConfig}
  */
 $scope.api.createIconConfig = function() {
-	return {
-		iconGroupExpanded: "glyphicon glyphicon-minus ag-icon",
-		iconGroupContracted: "glyphicon glyphicon-plus ag-icon"
-	}
+	return {};
 }
 
 /**

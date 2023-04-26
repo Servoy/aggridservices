@@ -8,7 +8,10 @@
     "libraries": [],
     "ng2Config": {
        "packageName": "@servoy/nggrids",
-       "serviceName": "PowergridService"
+       "serviceName": "PowergridService",
+	   	"dependencies": {
+    	   "serverscript": "aggridservice/datasettable/datasettableDefaultConfig_server_ng2.js"
+    	}
     },
     "model": {
 		"iconConfig": "iconConfig",
@@ -75,8 +78,8 @@
 			"iconValuePanel": { "type": "styleclass"},
 			"iconRefreshData": { "type": "styleclass"},
 			
-			"iconEditorChecked": { "type": "styleclass", "default" : "glyphicon glyphicon-check" },
-			"iconEditorUnchecked": { "type": "styleclass", "default" : "glyphicon glyphicon-unchecked" }
+			"iconEditorChecked": { "type": "styleclass"},
+			"iconEditorUnchecked": { "type": "styleclass"}
         },
 		"toolPanelConfig" : {
 			"suppressRowGroups": {"type": "boolean"},
