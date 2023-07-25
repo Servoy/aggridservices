@@ -21,7 +21,8 @@
 		"columnOptions": "map",
 		"mainMenuItemsConfig": "mainMenuItemsConfig",
 		"arrowsUpDownMoveWhenEditing": "string",
-		"editNextCellOnEnter": "boolean"
+		"editNextCellOnEnter": "boolean",
+		"continuousColumnsAutoSizing": "boolean"
 	},
     "api": {
 		"createIconConfig" : {

@@ -19,7 +19,8 @@
 		"gridOptions": "map",
 		"localeText": "map",
 		"columnOptions": "map",
-		"mainMenuItemsConfig": "mainMenuItemsConfig"
+		"mainMenuItemsConfig": "mainMenuItemsConfig",
+		"continuousColumnsAutoSizing": "boolean"
 	},
 	"api": {
 		"createIconConfig" : {
