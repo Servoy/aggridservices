@@ -22,7 +22,8 @@
 		"mainMenuItemsConfig": "mainMenuItemsConfig",
 		"arrowsUpDownMoveWhenEditing": "string",
 		"editNextCellOnEnter": "boolean",
-		"continuousColumnsAutoSizing": "boolean"
+		"continuousColumnsAutoSizing": "boolean",
+		"columnsAutoSizingOn": "columnsAutoSizingOn"
 	},
     "api": {
 		"createIconConfig" : {
@@ -33,6 +34,9 @@
 		},
 		"createMainMenuItemsConfig" : {
 			"returns": "mainMenuItemsConfig"
+		},
+		"createColumnsAutoSizingOn" : {
+			"returns": "columnsAutoSizingOn"
 		}
     },
     "types" : {
@@ -101,6 +105,13 @@
 			"resetColumns": {"type": "boolean" },
 			"expandAll": {"type": "boolean" },
 			"contractAll": {"type": "boolean" }
+		},
+		"columnsAutoSizingOn" : {
+			"columnResize" : { "type": "boolean" },
+			"columnRowGroupChange" : { "type": "boolean" },
+			"displayedColumnsChange" : { "type": "boolean" },
+			"gridSizeChange" : { "type": "boolean" },
+			"toolPanelVisibleChange" : { "type": "boolean" }
 		}
     }
 }

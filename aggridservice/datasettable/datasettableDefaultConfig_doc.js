@@ -18,3 +18,10 @@ function createToolPanelConfig() {
  */
 function createMainMenuItemsConfig() {
 }
+
+/**
+ * Creates an empty columnsAutoSizingOn configuration object
+ * @return {columnsAutoSizingOn}
+ */
+$scope.api.createColumnsAutoSizingOn = function() {
+}

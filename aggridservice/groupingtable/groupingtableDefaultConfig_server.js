@@ -24,3 +24,18 @@ $scope.api.createIconConfig = function() {
  $scope.api.createMainMenuItemsConfig = function() {
 	return {};
 }
+
+/**
+ * Creates an empty columnsAutoSizingOn configuration object
+ * @return {columnsAutoSizingOn}
+ */
+$scope.api.createColumnsAutoSizingOn = function() {
+	return {
+		columnResize: true,
+		columnRowGroupChange: true,
+		displayedColumnsChange: true,
+		gridSizeChange: true,
+		toolPanelVisibleChange: true
+	}
+}
+
