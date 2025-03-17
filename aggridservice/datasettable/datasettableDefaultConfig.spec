@@ -111,6 +111,7 @@
 			"columnResize" : { "type": "boolean" },
 			"columnRowGroupChange" : { "type": "boolean" },
 			"displayedColumnsChange" : { "type": "boolean" },
+			"gridReady" : { "type": "boolean"},
 			"gridSizeChange" : { "type": "boolean" },
 			"toolPanelVisibleChange" : { "type": "boolean" }
 		}		
