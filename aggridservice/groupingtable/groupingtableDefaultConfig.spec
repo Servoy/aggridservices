@@ -23,7 +23,8 @@
 		"arrowsUpDownMoveWhenEditing": "string",
 		"editNextCellOnEnter": "boolean",
 		"continuousColumnsAutoSizing": "boolean",
-		"columnsAutoSizingOn": "columnsAutoSizingOn"
+		"columnsAutoSizingOn": "columnsAutoSizingOn",
+		"customMainMenu": "JSMenu"
 	},
     "api": {
 		"createIconConfig" : {
