@@ -21,7 +21,8 @@
 		"columnOptions": "map",
 		"mainMenuItemsConfig": "mainMenuItemsConfig",
 		"continuousColumnsAutoSizing": "boolean",
-		"columnsAutoSizingOn": "columnsAutoSizingOn"
+		"columnsAutoSizingOn": "columnsAutoSizingOn",
+		"licenseKey": "string"
 	},
 	"api": {
 		"createIconConfig" : {

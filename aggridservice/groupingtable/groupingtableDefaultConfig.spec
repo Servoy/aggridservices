@@ -24,7 +24,8 @@
 		"editNextCellOnEnter": "boolean",
 		"continuousColumnsAutoSizing": "boolean",
 		"columnsAutoSizingOn": "columnsAutoSizingOn",
-		"customMainMenu": "JSMenu"
+		"customMainMenu": "JSMenu",
+		"licenseKey": "string"
 	},
     "api": {
 		"createIconConfig" : {
