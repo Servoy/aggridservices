@@ -19,6 +19,7 @@
         {"version":"1.3.2","url":"https://github.com/Servoy/aggridservices/releases/download/v1.3.2/aggridservices.zip", "servoy-version":"2022.6.0"},
         {"version":"1.3.3","url":"https://github.com/Servoy/aggridservices/releases/download/v1.3.3/aggridservices.zip", "servoy-version":"2022.6.0"},
         {"version":"1.3.4","url":"https://github.com/Servoy/aggridservices/releases/download/v1.3.4/aggridservices.zip", "servoy-version":"2022.6.0"},
-        {"version":"1.3.5","url":"https://github.com/Servoy/aggridservices/releases/download/v1.3.5/aggridservices.zip", "servoy-version":"2022.6.0"}
+        {"version":"1.3.5","url":"https://github.com/Servoy/aggridservices/releases/download/v1.3.5/aggridservices.zip", "servoy-version":"2022.6.0"},
+        {"version":"1.3.6","url":"https://github.com/Servoy/aggridservices/releases/download/v1.3.6/aggridservices.zip", "servoy-version":"2024.3.0"}
     ]
 }
