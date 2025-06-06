@@ -98,6 +98,11 @@
 			"suppressColumnExpandAll": {"type": "boolean"}
 		},
 		"mainMenuItemsConfig" : {
+			"sortAscending": {"type": "boolean" },
+			"sortDescending": {"type": "boolean" },
+			"sortUnSort": {"type": "boolean" },
+			"columnFilter": {"type": "boolean" },
+			"columnChooser": {"type": "boolean" },
 			"pinSubMenu": {"type": "boolean" },
 			"valueAggSubMenu": {"type": "boolean" },
 			"autoSizeThis": {"type": "boolean" },
