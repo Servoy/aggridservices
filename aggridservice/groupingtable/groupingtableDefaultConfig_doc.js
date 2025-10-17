@@ -1,3 +1,7 @@
+/*
+ * This is a service that allows common application-wide configuration options to be set for Data Grids (from the Servoy NG-Grids package).
+ */
+
 /**
  * Creates an empty toolpanel configuration object
  * @return {toolPanelConfig}
