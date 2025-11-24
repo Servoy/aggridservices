@@ -22,6 +22,7 @@
 		"mainMenuItemsConfig": "mainMenuItemsConfig",
 		"arrowsUpDownMoveWhenEditing": "string",
 		"editNextCellOnEnter": "boolean",
+		"moveToNextEditableCellOnTab": "boolean",
 		"continuousColumnsAutoSizing": "boolean",
 		"columnsAutoSizingOn": "columnsAutoSizingOn",
 		"customMainMenu": "JSMenu",
