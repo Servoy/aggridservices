@@ -120,7 +120,8 @@
 			"displayedColumnsChange" : { "type": "boolean" },
 			"gridReady" : { "type": "boolean"},
 			"gridSizeChange" : { "type": "boolean" },
-			"toolPanelVisibleChange" : { "type": "boolean" }
+			"toolPanelVisibleChange" : { "type": "boolean" },
+			"gridRowPostCreate" : { "type": "boolean" }
 		}
     }
 }

@@ -33,6 +33,7 @@ $scope.api.createColumnsAutoSizingOn = function() {
 		displayedColumnsChange: true,
 		gridReady: true,
 		gridSizeChange: true,
-		toolPanelVisibleChange: true
+		toolPanelVisibleChange: true,
+		gridRowPostCreate: false
 	}
 }
